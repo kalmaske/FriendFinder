@@ -1,16 +1,15 @@
-.container, 
-.jumbotron, 
-.container-fluid 
+.container,
 .jumbotron,
+.container-fluid .jumbotron,
 h1,
-strong{
+strong {
     font-family: 'Acme', sans-serif;
     font-size: 20px;
     background-color: #EBF7F9;
 }
 
- h1,
- strong{
+h1,
+strong {
     font-size: 40px;
     font-weight: bold;
-} 
+}
