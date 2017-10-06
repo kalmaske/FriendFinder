@@ -23,4 +23,4 @@ The app will then display the name and picture of the user with the best overall
 
 
 
-Deployed: https://shielded-retreat-32916.herokuapp.com/
+
